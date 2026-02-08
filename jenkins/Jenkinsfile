@@ -23,7 +23,7 @@ pipeline {
         }
         stage('Complete') {
             steps {
-                echo 'Job done by aman'
+                echo 'Job done by other'
             }
         }
     }
